@@ -1,7 +1,8 @@
 
 ## 👋 Olá, sou Caike Oliveira
 
-    Estudante de engenharia de software e técnico em TI, desenvolvo projetos utlizando Python, linguagem que venho estudando a um ano por meio de cursos na internet, como ferramentas tenho o dominio de SQL e Git. Atualmente estou me aprofundando em bibliotecas para analise de dados e montando portifolio para para conseguir um emprego na area de desenvolvimento, tenho experiencia academica com C# e Java, para o fontend HTML e CSS.
+
+Estudante de engenharia de software e técnico em TI, desenvolvo projetos utlizando Python, linguagem que venho estudando a um ano por meio de cursos na internet, como ferramentas tenho o dominio de SQL e Git. Atualmente estou me aprofundando em bibliotecas para analise de dados e montando portifolio para para conseguir um emprego na area de desenvolvimento, tenho experiencia academica com C# e Java, para o fontend HTML e CSS.
    O técnico me deu uma boa base em algoritmos e me ensinou a pensar como desenvolvedor, acredito que por isso tenho muita facilidade no aprendizado, estou revendo varios principios na faculdade e fazendo muitos cursos complementares, mão na massa é o melhor jeito de melhorar.
     
 
