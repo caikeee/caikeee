@@ -39,7 +39,6 @@
 
 ###
 
-<img src="https://github.com/caikeee/caikeee/blob/main/snake.yml" alt="Snake animation" />
 
 
 ###
