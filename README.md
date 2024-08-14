@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/caikeee/caikeee/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/caikeee/caikeee/snake.yml/snake.svg" alt="Snake animation" />
 
 ###
