@@ -1,7 +1,7 @@
 
 ### Olá, Sou Caike Oliveira!
 
-<p align="left">Formado em TI e Administração em nível técnico, atualmente curso Engenharia de Software. Trabalho como freelancer, desenvolvendo sites para pequenos negócios e para uma agência de marketing local, conforme a demanda. No backend, utilizo Python, SQL e Git, e já desenvolvi projetos que incluem APIs e interfaces gráficas. No frontend, trabalho com HTML, CSS e JavaScript e React. Usp meus projetos pessoais e pratico programação competitiva, acredito que são fundamentais para o desenvolvimento contínuo das minhas competências técnicas.</p>
+<p align="left">Formado em TI e Administração em nível técnico, atualmente curso Engenharia de Software. Trabalho como freelancer, desenvolvendo sites para pequenos negócios e para uma agência de marketing local, conforme a demanda. No backend, utilizo Python, SQL e Git, e já desenvolvi projetos que incluem APIs e interfaces gráficas. No frontend, trabalho com HTML, CSS, JavaScript e React. Meus projetos pessoais e a pratica de programação competitiva também são fundamentais para o desenvolvimento contínuo das minhas competências técnicas.</p>
 
 ###
 
